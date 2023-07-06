@@ -55,7 +55,6 @@
 <p align="center">
 <a href="https://ismaelhernandez.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://ismaelhernandez.vercel.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ismael-hern%C3%A1ndez-46b09523a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ismael%20Hernandez-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-isma_h21@outlook.com-blue?style=flat-square&logo=microsoft-outlook"></a>
-</p>
+
 
 
